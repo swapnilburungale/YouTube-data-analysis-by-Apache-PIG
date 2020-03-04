@@ -5,3 +5,4 @@ Hadoop with cluster of multiple nodes with Apache PIG installed is the pre-requi
 Design of different problem statements for analysis are on the basis of owner's interest and can be extended as per requirements.
 Run time of execution can vary according to the size of cluster one uses.
 Small chunk of actual data has been imported here for analysis whereas actual size of data is way more in size.
+Before loading the data in Apache-PIG, it is essential to have it in cleaned way(csc,tsv etc.). Cleaning process is one's choice altogether. I have cleansed it using python.
